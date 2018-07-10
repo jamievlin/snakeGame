@@ -1,5 +1,5 @@
 CXX=g++
-CXXFLAGS=-Wall -std=c++14 -g
+CXXFLAGS=-Wall -std=c++14 -O2
 LIBS=ncurses
 default: snakeGame
 
